@@ -46,6 +46,7 @@ def main(offset):
         write_to_file(i)
 
 if __name__ == '__main__':
+    start = time.time()
     for k in range(10):
         main(offset = k * 25)
-        time.sleep(1)
+    print('total time taken: %.5f s' % float(time.time() - start))
