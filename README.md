@@ -3,3 +3,4 @@
 
 2. [BBC news articles: metadata and content](./BBCnews)
 
+3. [NTTimes articles: metadata and content](./nytimes)
