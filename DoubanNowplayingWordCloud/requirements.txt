@@ -1,0 +1,7 @@
+requests
+lxml
+jieba
+re
+matplotlib
+numpy
+WordCloud
